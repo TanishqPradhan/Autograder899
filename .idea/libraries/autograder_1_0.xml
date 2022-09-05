@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="autograder-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../autograder/target/autograder-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
